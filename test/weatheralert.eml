@@ -1,0 +1,390 @@
+Delivered-To: chaitanyachowdary.gudimalla@gmail.com
+Received: by 2002:a05:6808:292:0:0:0:0 with SMTP id z18csp119283oic;
+        Wed, 30 Nov 2022 07:41:14 -0800 (PST)
+X-Google-Smtp-Source: AA0mqf5fjU6hRgOxRiHsuRYC+taIO+xWmRuZCLba9h64x6oVkXBl79VwDVjXQCxfQUgKotTEfXD6
+X-Received: by 2002:a05:6830:1103:b0:66d:dd64:1a39 with SMTP id w3-20020a056830110300b0066ddd641a39mr25441290otq.160.1669822873928;
+        Wed, 30 Nov 2022 07:41:13 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1669822873; cv=none;
+        d=google.com; s=arc-20160816;
+        b=Wf5jPabJbbcjG3S7m6GsBHWDK3VgmUnxpOfY8bQabkrljTRwvnyebhM6Tq7j4T6Lom
+         kfGFCNt/JJAYPeGcfCrVR3aIIH+oWpqI+oh2kf9i/GCCgx/fXzZOL7Nb/U2kfp2In726
+         knK7y6QdnNTw5kVqJn4WjmvHdeh9zvIrjaysSLozMndFNX1q+pYeUwE/Agi2/mbFq7NY
+         kp6UVneeAVXUqd43fYVBMStFe8LkRbsbyWyBEXvWlPumwTzB+qiC8yHxN6moz7GvWc0g
+         xEIuJdg+TLDys2HCw6byJkkpiWe5zk7hLdEiXjZyRx4Vejh790FnUu6VVkl2yq8i+CAa
+         ge8Q==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:date:subject:to:from:precedence:reply-to:message-id;
+        bh=CSLfQyOUBN0XdWmFP0vN4av0/LCQZbPUoOtzyktVaIE=;
+        b=aOHJVN921qvpsUJw8PQ6n6DIzzAr+1O+wap60XNviuOjmiEqa7kL78+upA0vgU9QRG
+         InqaOUVVyNG4v55Lt0xuU0nMko9wzmTVxwcaxQ8YOQMn97LGV9ZYt9m3/r9/r1mKIqpM
+         xUil6tJc41SWaMejLRh8BlvwZPAJkywewhQEFs4geKdGU7LmiUuQKNOXL5/o+X2H+Xxe
+         qSLIU0M9onU9YHVpeYMZ2Wb97iDzkKSJBQLgdHJpkWY++9kITwXuBzTAhSbaGt9TbGh6
+         tnidPtMESNMTZ9IJ/NeegAK+xVLrnatJs/NTO5deEFLXEzqBbtBTkb7ljLF6B2lZpugB
+         x1Ow==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of noreply@emergencyemail.org designates 184.172.24.164 as permitted sender) smtp.mailfrom=noreply@emergencyemail.org
+Return-Path: <noreply@emergencyemail.org>
+Received: from server5a.emergencyemail.org (server5a.emergencyemail.org. [184.172.24.164])
+        by mx.google.com with SMTP id p6-20020aca5b06000000b003545681bb43si1252626oib.126.2022.11.30.07.41.13
+        for <chaitanyachowdary.gudimalla@gmail.com>;
+        Wed, 30 Nov 2022 07:41:13 -0800 (PST)
+Received-SPF: pass (google.com: domain of noreply@emergencyemail.org designates 184.172.24.164 as permitted sender) client-ip=184.172.24.164;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of noreply@emergencyemail.org designates 184.172.24.164 as permitted sender) smtp.mailfrom=noreply@emergencyemail.org
+Message-ID: <1894720221133015416475@emergencyemail.org>
+X-EM-Version: 5, 0, 0, 21
+X-EM-Registration: #01F0551810F20d001200
+Reply-To: noreply@emergencyemail.org
+X-Effector: 70016142 app WXALRT
+Precedence: bulk
+From: "EmergencyEmail.ORG" <noreply@emergencyemail.org>
+To: chaitanyachowdary.gudimalla@gmail.com
+Subject: WEATHER ALERT for FL - Seminole County on 11/30/2022
+Date: Wed, 30 Nov 2022 10:41:06 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_84815C5ABAF209EF376268C8"
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-type: text/plain; charset=US-ASCII
+
+Your CURRENT SEVERE Weather RADAR MAP Link...
+https://www.emergencyemail.org/weathergetWANG1.asp?src=DS.p19r0/si.kMLB
+
+POST this alert to Your Facebook, Twitter or Email to a Friend link...
+https://www.EmergencyEmail.org/wxl/FL/wxl12117-202211301040344930.asp
+
+Your local forecast link: https://www.Emergencyemail.org/wx/us/FL/12117.asp
+
+NEW: Current General News link...
+https://www.emergencyemail.org/newsemergency/anmviewer.asp?a=817&z=33
+
+Airports Closed or Delayed
+https://www.emergencyemail.org/remoteflightWANG.asp?src=wxem
+
+------------ ALERT: SEVERE WEATHER WARNINGS AND WATCHES -------------
+
+...The Flood Warning continues for the following rivers in Florida...
+St Johns River Near Sanford affecting Seminole County.
+.The Saint Johns River at Sanford is forecast to slowly fall while
+remaining within Minor Flood Stage until around this weekend.
+Residents and interests along the river should expect continuing
+Minor flood impacts.
+For the St. Johns River...including Sanford...Minor flooding is
+occurring.
+Additional information is available at www.weather.gov.
+The next statement will be issued Thursday morning at 1100 AM EST.
+&amp;&amp;
+..FLOOD WARNING REMAINS IN EFFECT UNTIL EARLY SUNDAY MORNING...
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
+* WHERE...St Johns River Near Sanford.
+* WHEN...Until early Sunday morning.
+* IMPACTS...At 5.5 feet, Water surrounds homes and covers some
+driveways in the Stone Island area near Enterprise in Volusia
+County. Water enters yards and floods docks in the River Oaks
+Estates subdivision.
+* ADDITIONAL DETAILS...
+- At 9:30 AM EST Wednesday the stage was 5.7 feet.
+- Recent Activity...The maximum river stage in the 24 hours
+ending at 9:30 AM EST Wednesday was 5.8 feet.
+- Forecast...The river is expected to fall below flood stage
+Saturday evening and continue falling to 5.3 feet Monday
+morning.
+- Flood stage is 5.5 feet.
+- http://www.weather.gov/safety/flood
+&amp;&amp;
+Fld   Observed        Forecasts (1 pm)
+Location      Stg   Stg   Day/Time  Thu   Fri   Sat   Sun   Mon
+St Johns River
+Sanford       5.5   5.7   Wed 9 am  5.6   5.6   5.5   5.4   MSG
+&amp;&amp;
+
+==========================
+Services Description
+==========================
+This service is provided at no cost to you.
+
+1. Severe Weather Alerts that include current radar, weather conditions and forecast links.
+2. In addition to alerts you may also receive daily AM and PM forecast information with a separate option to unsubscribe.
+
+==========================
+Account Options:
+==========================
+
+To make changes to your email profile
+Go to.... https://www.EmergencyEmail.ORG click on the Update link
+----
+
+THE EMERGENCY EMAIL & WIRELESS NETWORK
+https://www.EmergencyEmail.org
+
+UNSUBSCRIBE: If you do not want to receive these alerts use the following link to unsubscribe.
+https://www.emergencyemail.org/UnsubNew.asp?subguid=4F942C5C8E445
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-Type: text/html; charset=US-ASCII
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Severe Weather Alert</title>
+
+</head>
+<body bgcolor="#f6f6f6" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; -webkit-font-smoothing: antialiased; height: 100%; -webkit-text-size-adjust: none; width: 100% !important; margin: 0; padding: 0;">
+
+
+
+<!-- body -->
+
+
+
+
+<table class="body-wrap" bgcolor="#f6f6f6" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; width: 100%; margin: 0; padding: 0px;"><tr style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">
+<td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;"></td>
+    <td class="container" bgcolor="#FFFFFF" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; clear: both !important; display: block !important; max-width: 600px !important; Margin: 0 auto; padding: 0px; border: 1px solid #f0f0f0;">
+
+      <!-- content -->
+      <div class="content" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; display: block; max-width: 600px; margin: 0 auto; padding: 0;">
+      <table style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; width: 100%; margin: 0; padding: 0;"><tr style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">
+<td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">
+
+
+            <h2 style="font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 24px; line-height: 1.2em; color: #000000; font-weight: 300; margin: 0px 0 15px; padding: 0;">A Severe Weather Alert has been issued in your area...
+&nbsp;</h2>
+
+            <!-- button -->
+            <table class="btn-primary" cellpadding="0" cellspacing="0" border="0" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; width: auto !important; Margin: 10px 0 10px; padding: 0;">
+            
+            <tr style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">
+<td style="font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 14px; line-height: 1.6em; border-radius: 25px; text-align: center; vertical-align: top; background: #348eda; margin: 0; padding: 0;" align="center" bgcolor="#348eda" valign="top">
+                  &nbsp;<a href="https://www.EmergencyEmail.org/wxl/FL/wxl12117-202211301040344930.asp?utm_medium=email&utm_source=eewn&utm_campaign=Weather-Alerts-11/30/2022" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 120%; line-height: 2; color: #ffffff; border-radius: 25px; display: inline-block; cursor: pointer; font-weight: bold; text-decoration: none; background: #348eda; margin: 0; padding: 0; border-color: #348eda; border-style: solid; border-width: 10px 20px;">CURRENT ALERT</a> 
+                </td>
+
+<td>
+
+<img src="https://www.emergencyemail.org/images/px.gif?cn=Weather-Alerts-11/30/2022&cid=70016142&uid=4F942C5C8E445"  width="0" height="0"> 
+<img src="https://www.google-analytics.com/collect?v=1&tid=UA-9914736-1&cid=70016142&t=event&ec=email&ea=open&cs=eewn&cm=email&cn=Weather-Alerts-11/30/2022"> 
+
+</td>
+                 </tr>
+
+              </table>
+<!-- /button -->
+
+
+
+<p>
+<a style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 18px; line-height: 1.6em; font-weight: normal; margin: 0 0 10px; padding: 0;" href="https://www.emergencyemail.org/weathergetWANG1.asp?src=DS.p19r0/si.kMLB&utm_medium=email&utm_source=eewn&utm_campaign=Weather-Alerts-11/30/2022">Your Current Severe RADAR MAP Link</a>
+</p>
+
+<p>
+<a style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 18px; line-height: 1.6em; font-weight: normal; margin: 0 0 10px; padding: 0;" href="https://www.Emergencyemail.org/wx/us/FL/12117.asp?utm_medium=email&utm_source=eewn&utm_campaign=Weather-Alerts-11/30/2022">Your local forecast link</a>
+</p>
+<p>
+<a style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 18px; line-height: 1.6em; font-weight: normal; margin: 0 0 10px; padding: 0;" href="https://www.emergencyemail.org/newsemergency/anmviewer.asp?a=817&z=33">Breaking General News Link</a>
+</p>
+<p>
+<a style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 18px; line-height: 1.6em; font-weight: normal; margin: 0 0 10px; padding: 0;" href="https://www.emergencyemail.org/remoteflightWANG.asp">Airports Closed or Delayed </a>
+</p>
+
+<p style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 18px; line-height: 1.2em; font-weight: 500; margin: 10px 0 10px; padding: 0; text-decoration: none;">
+Flood Warning issued November 30 at 10:&#8203;37&#8203;AM EST until December 04 at 1:&#8203;00&#8203;AM EST by NWS Melbourne
+</p>
+
+
+
+
+
+<table class="btn-primary" cellpadding="0" cellspacing="0" border="0" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; width: auto !important; Margin: 0 0 10px; padding: 0;">
+            
+<tr>
+
+<td style="font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 14px; line-height: 1.2em; text-align: left; vertical-align: top; margin: 0; padding: 0;" align="center"  valign="top">
+
+<a href="https://www.EmergencyEmail.org/wxl/FL/wxl12117-202211301040344930.asp?utm_medium=email&utm_source=eewn&utm_campaign=Weather-Alerts-11/30/2022" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.5; color: #000000;  display: inline-block; cursor: pointer; font-weight: 500; text-decoration: none;  margin: 0; padding: 0;">
+...The Flood Warning continues for the following rivers in Florida...<br>St Johns River Near Sanford affecting Seminole County.<br>.The Saint Johns River at Sanford is forecast to slowly fall while
+remaining within Minor Flood Stage until around this weekend.<br>Residents and interests along the river should expect continuing
+Minor flood impacts.<br>For the St. Johns River...including Sanford...Minor flooding is
+occurring.<br>Additional information is available at www.weather.gov.<br>The next statement will be issued Thursday morning at 1100 AM EST.<br>&amp;&amp;
+..FLOOD WARNING REMAINS IN EFFECT UNTIL EARLY SUNDAY MORNING...<br>* WHAT...Minor flooding is occurring and minor flooding is forecast.<br>* WHERE...St Johns River Near Sanford.<br>* WHEN...Until early Sunday morning.<br>* IMPACTS...At 5.5 feet, Water surrounds homes and covers some
+driveways in the Stone Island area near Enterprise in Volusia
+County. Water enters yards and floods docks in the River Oaks
+Estates subdivision.<br>* ADDITIONAL DETAILS...<br>- At 9:30 AM EST Wednesday the stage was 5.7 feet.<br>- Recent Activity...The maximum river stage in the 24 hours
+ending at 9:30 AM EST Wednesday was 5.8 feet.<br>- Forecast...The river is expected to fall below flood stage
+Saturday evening and continue falling to 5.3 feet Monday
+morning.<br>- Flood stage is 5.5 feet.<br>- http://www.weather.gov/safety/flood
+&amp;&amp;
+Fld   Observed        Forecasts (1 pm)
+Location      Stg   Stg   Day/Time  Thu   Fri   Sat   Sun   Mon
+St Johns River
+Sanford       5.5   5.7   Wed 9 am  5.6   5.6   5.5   5.4   MSG
+&amp;&amp;
+</a>
+
+
+<br> 
+</td>
+</tr>
+</table>
+
+
+<!-- content1 -->
+<table border="0" cellpadding="0" cellspacing="0" >
+<tr><td colspan="2">
+<a href="http://li.emergencyemail.org/click?s=705960&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" rel="nofollow">
+<img src="http://li.emergencyemail.org/imp?s=705960&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" border="0" width="100%" style="width: 100%; max-width: 600px !important;"/>
+</a></td></tr>
+<tr><td align="left"><a style="display: block; max-width: 116px;  max-height: 15px;" href="http://li.emergencyemail.org/click?s=705961&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" rel="nofollow">
+<img src="http://li.emergencyemail.org/imp?s=705961&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" border="0"/></a>
+</td>
+<td align="right"><a style="display: block; max-width: 19px;  max-height: 15px;" href="http://li.emergencyemail.org/click?s=705963&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" rel="nofollow">
+<img src="http://li.emergencyemail.org/imp?s=705963&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" border="0"/></a>
+</td></tr></table>
+<!-- /content1 -->
+
+
+
+<p style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6em; font-weight: normal; margin: 0 0 10px; padding: 0;">
+
+==========================<br>
+Services Description<br>
+==========================<br>
+This service is provided at no cost to you.<br>
+<br>
+1. Severe Weather Alerts that include current radar, weather conditions and forecast links.<br>
+2. In addition to alerts you may also receive daily AM and PM forecast information with a separate option to unsubscribe.
+
+</p>
+<p style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6em; font-weight: normal; margin: 0 0 10px; padding: 0;">
+
+==========================<br>
+Account Options:<br>
+==========================<br>
+To make changes to your email profile go to
+<a href="https://www.emergencyemail.org/">www.emergencyemail.org</a> click on the Update Link.
+
+</p>
+
+
+
+
+          </td>
+        </tr></table>
+</div>
+      <!-- /content -->
+      
+    </td>
+    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;"></td>
+  </tr></table>
+  
+<!-- /body -->
+
+<!-- footer -->
+
+<table class="footer-wrap" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; clear: both !important; width: 100%; margin: 0; padding: 0;"><tr style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">
+<td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">&nbsp;</td>
+    <td class="container" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; clear: both !important; display: block !important; max-width: 600px !important; margin: 0 auto; padding: 0;">
+      
+
+      <!-- content -->
+
+      <div class="content" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; display: block; max-width: 600px; margin: 0 auto; padding: 0;">
+        <table style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; width: 100%; margin: 0; padding: 0;"><tr style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">
+<td align="center" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">
+              
+              <p style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.6em; color: #666666; font-weight: normal; margin: 0 0 10px; padding: 0;">
+              
+              <a href="https://www.emergencyemail.org">THE EMERGENCY EMAIL & WIRELESS NETWORK</a>
+
+              </p>
+
+         <p style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 10px; line-height: 1.1em; color: #666666; font-weight: normal; margin: 0 0 10px; padding: 0;">
+Customer Service Department | Enotem, Inc. <br> P. O. Box 1446 | Orange Park, FL 32067-1446
+
+</p>
+
+                     <p style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.6em; color: #666666; font-weight: normal; margin: 0 0 10px; padding: 0;">
+              If you do not want to receive these Severe Weather Alerts please click
+              <a href="https://www.emergencyemail.org/UnsubNew.asp?subguid=4F942C5C8E445">Unsubscribe</a>
+              </p>
+              
+  
+              
+            </td>
+          </tr></table>
+</div>
+      <!-- /content -->
+      
+    </td>
+    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">
+
+</td>
+  </tr>
+</table>
+<!-- /footer -->
+
+
+
+
+<!-- content2 -->
+
+<table border="0" cellpadding="0" cellspacing="0" >
+<tr><td colspan="2">
+<a href="http://li.emergencyemail.org/click?s=705992&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" rel="nofollow">
+<img src="http://li.emergencyemail.org/imp?s=705992&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" border="0" width="100%" style="width: 100%; max-width: 600px !important;"/></a>
+</td></tr>
+<tr>
+<td align="left">
+<a style="display: block; max-width: 116px;  max-height: 15px;" href="http://li.emergencyemail.org/click?s=705993&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" rel="nofollow">
+<img src="http://li.emergencyemail.org/imp?s=705993&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" border="0"/></a>
+</td>
+<td align="right">
+<a style="display: block; max-width: 19px;  max-height: 15px;" href="http://li.emergencyemail.org/click?s=705995&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" rel="nofollow">
+<img src="http://li.emergencyemail.org/imp?s=705995&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" border="0"/></a>
+</td>
+</tr></table>
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="40" height="6">
+<tbody>
+<tr>
+<td><img src="http://li.emergencyemail.org/imp?s=124870200&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870201&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870202&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870203&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870204&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870205&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870206&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870207&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870208&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870209&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870210&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870211&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870212&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870213&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870214&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870215&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870216&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870217&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870218&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+<td><img src="http://li.emergencyemail.org/imp?s=124870219&li=eewn&m=664c2a1180e1b11dd5495e2ca3f55763&p=WeatherAlerts11302022" width="2" height="6" border="0" /></td>
+</tr></tbody></table>
+
+<!-- /content2 -->
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+------=_NextPart_84815C5ABAF209EF376268C8--
+
