@@ -5,12 +5,12 @@ SpaMail is a forensic tool that checks if the domain can be spoofed from and  al
 ## Getting Started
 To get a local copy up and running follow these simple steps
 
-###Prerequisites
+### Prerequisites
 ```
 1. Download and Install Python Version 3.5 at https://www.python.org/downloads/release/python-350/
 ```
 
-###Run Locally
+### Run Locally
 
 #### 1. Clone the repository 
 
@@ -36,6 +36,7 @@ python3 code.py -f legitimate.eml
 ```
 
 ## Contributions
+
 Any Contributions you make are greatly appreciated
 
 1. fork the project
