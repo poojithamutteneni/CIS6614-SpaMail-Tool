@@ -13,24 +13,26 @@ To get a local copy up and running follow these simple steps
 
 #### 1. Clone the repository 
 
-
+```
 $ https://github.com/poojithamutteneni/CIS6614-SpaMail-Tool
+```
 
 #### 2. On the Windows or Linux Download the original metadata of an email by opening the email and clicking on the option show original. Then download the .eml file.
 
 #### 3. Running from the code.py file
 
-
+```
 cd spaMail
 python3 code.py
+```
 
 
 
 #### 4. use code.py from the cloned repo
 
-
+```
 python3 code.py -f legitimate.eml
-
+```
 
 ## Contributions
 Any Contributions you make are greatly appreciated
